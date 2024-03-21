@@ -206,4 +206,3 @@ function printpdf() {
     var info = document.getElementById("custinfo");
     info.value = value1;
   }
-has context menu
